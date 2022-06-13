@@ -10,6 +10,4 @@ This program uses the bash shell to integrate head and tail command to seek out 
 2. two
 3. three
 
-* one
-* two
-* three
+
